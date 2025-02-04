@@ -1,2 +1,2 @@
 # MultReName
-Barch File Renaming Program
+Batch File Renaming Program
